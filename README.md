@@ -3,7 +3,6 @@
 This model is a fine-tuned version of [openai/whisper-small](https://huggingface.co/openai/whisper-small) on the Arabic News Corpus dataset.
 It achieves the following results on the evaluation set:
 - Loss: 0.2024
-- 
 ## Training procedure
 
 ### Training hyperparameters
